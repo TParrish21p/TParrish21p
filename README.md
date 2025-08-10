@@ -7,7 +7,7 @@
   <a href="https://tparrish21p.github.io/tyler-parrish-portfolio/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/tyler-parrish-737412281">LinkedIn</a> •
   <a href="mailto:Tdparrish314@gmail.com">Email</a> •
-  <a href="./resume.pdf">Resume</a>
+  <a href="./Tyler_Parrish_Resume.pdf">Resume</a>
 </p>
 
 ---
