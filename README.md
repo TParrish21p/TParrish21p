@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Tyler Parrish</h1>
+<p align="center">
+  Support Engineer, Frontend Developer
+</p>
 
-<!--
-**TParrish21p/TParrish21p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://tparrish21p.github.io/tyler-parrish-portfolio/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/tyler-parrish-737412281">LinkedIn</a> •
+  <a href="mailto:Tdparrish314@gmail.com">Email</a> •
+  <a href="./resume.pdf">Resume</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+- Building small, accessible web projects with **HTML, CSS, JavaScript**
+- Keeping code simple, readable, and easy to maintain
+- Growing toward full-stack step by step
+
+### Selected work
+- **Task Manager**, minimal UI, keyboard friendly, localStorage  
+  🔗 https://tparrish21p.github.io/task-manager/
+- **Subscription Pricing Page**, responsive layout using CSS Grid  
+  🔗 https://tparrish21p.github.io/subscription-pricing-page/
+- **Product Gallery**, filterable gallery with simple JavaScript  
+  🔗 https://tparrish21p.github.io/product-gallery/
+
+### Tech
+HTML, CSS, JavaScript, Git, GitHub, Windows administration, Linux basics, Active Directory, device imaging, hardware repair, networking fundamentals, ServiceNow
+
+### Education
+B.S. Cybersecurity, Data Analytics concentration, finishing Aug 2025
+
+---
+
+<sub>Tip: I keep my portfolio and pinned repos in sync, so the best examples are always at the top.</sub>
