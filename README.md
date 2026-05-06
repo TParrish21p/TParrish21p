@@ -1,6 +1,6 @@
 <h1 align="center">Tyler Parrish</h1>
 <p align="center">
-  Support Engineer, Frontend Developer
+  Support Engineer, Fullstack Developer/Software Developer
 </p>
 
 <p align="center">
@@ -13,23 +13,16 @@
 ---
 
 ### Focus
-- Building small, accessible web projects with **HTML, CSS, JavaScript**
-- Keeping code simple, readable, and easy to maintain
-- Growing toward full-stack step by step
+
 
 ### Selected work
-- **Task Manager**, minimal UI, keyboard friendly, localStorage  
-  🔗 https://tparrish21p.github.io/task-manager/
-- **Subscription Pricing Page**, responsive layout using CSS Grid  
-  🔗 https://tparrish21p.github.io/subscription-pricing-page/
-- **Product Gallery**, filterable gallery with simple JavaScript  
-  🔗 https://tparrish21p.github.io/product-gallery/
+
 
 ### Tech
 HTML, CSS, JavaScript, Git, GitHub, Windows administration, Linux basics, Active Directory, device imaging, hardware repair, networking fundamentals, ServiceNow
 
 ### Education
-B.S. Cybersecurity, Data Analytics concentration, finishing Aug 2025
+B.S. Cybersecurity, Data Analytics concentration, Sept. 2025
 
 ---
 
